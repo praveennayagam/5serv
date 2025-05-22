@@ -1,0 +1,102 @@
+HDR|01-05-2025|LoanApplication|
+1511903020Sandy Schuster                          419422507168343296.06000020385618132008.15Travel                        PENDING   01-05-2025BR004
+1593469144Lionel Powlowski                        212111004111860662.53000029101992117004.70Business                      REJECTED  01-05-2025BR002
+1166139936Jarrett Hettinger                       631816765113842118.65000640364555223006.13Home                          REJECTED  01-05-2025BR003
+1616852379Benita McLaughlin                       705257292142276832.34000097186904154012.01Business                      PENDING   01-05-2025BR003
+1491916755Dylan Jacobson                          354973996178635728.54000595191617337019.02Business                      REJECTED  01-05-2025BR002
+1726203043Jess Hagenes                            248921507186907782.60000568096288272010.92Home                          REJECTED  01-05-2025BR003
+1170201833Barabara Okuneva                        914979122143681787.43000704463785336017.69Travel                        PENDING   01-05-2025BR003
+1520996069Royal Padberg III                       821125126139792796.57000361387824167014.78Business                      REJECTED  01-05-2025BR001
+1870996113Karima Reichert                         214484151108052554.72000292736608322020.34Medical                       APPROVED  01-05-2025BR001
+1806764166Rosalina Hilpert                        354723948175069311.85000038522386095012.83Education                     APPROVED  01-05-2025BR004
+1052121221Julianne Weissnat                       864224220133104565.68000898408792326016.51Medical                       REJECTED  01-05-2025BR004
+1664966556Ms. King Hodkiewicz                     885137309190941088.68000595725451289010.20Home                          APPROVED  01-05-2025BR004
+1105063681Jeanie Grimes                           438841047103315841.51000709153147219014.52Business                      REJECTED  01-05-2025BR004
+1041787455Ronnie Emard                            443980936166269331.71000912312335062015.21Home                          REJECTED  01-05-2025BR001
+1838072810Manual Cremin                           111086513107475115.34000736869530363006.69Education                     REJECTED  01-05-2025BR002
+1869528862Tyisha Wolff                            756180479196419471.38000649135628199010.55Travel                        PENDING   01-05-2025BR002
+1024390883Leanna Torphy                           896200777104448767.08000941802652212016.63Medical                       REJECTED  01-05-2025BR004
+1700998685Colby Cruickshank                       308297047113613613.92000838977864120006.85Education                     APPROVED  01-05-2025BR002
+1099466701Ricarda Fay                             419563652191727814.97000666582596358006.24Education                     REJECTED  01-05-2025BR004
+1469601584Robin Corkery                           418663500118728949.96000658067525090009.26Travel                        PENDING   01-05-2025BR004
+1356033237Winston Johnston                        467327367196801288.61000448362770166004.54Home                          REJECTED  01-05-2025BR003
+1244939855Louie Waelchi                           219371353108959348.78000195270938161016.37Travel                        REJECTED  01-05-2025BR004
+1489034884Lindsey Ruecker DDS                     233674153138978722.93000233178695255011.44Education                     REJECTED  01-05-2025BR001
+1444274197Jessica McClure                         641065274146394739.78000665666184122007.46Home                          APPROVED  01-05-2025BR002
+1239190974Camila Braun                            656564879173961813.14000553645844170018.82Education                     PENDING   01-05-2025BR003
+1417708738Scottie Casper                          501189702169263567.19000838944263041013.22Home                          PENDING   01-05-2025BR004
+1414289721Inez Daniel                             919836020101101923.65000171935189123003.17Education                     APPROVED  01-05-2025BR004
+1417203246Lindsay Treutel                         932584084140832807.30000136985956288008.16Education                     PENDING   01-05-2025BR002
+1077643590Gloria Brown                            292633905144283620.15000201959099337008.25Medical                       REJECTED  01-05-2025BR001
+1766906859Ms. Jaquelyn Stokes                     365189229171475270.84000969649145066008.18Travel                        REJECTED  01-05-2025BR003
+1729095893Dr. Britta Kertzmann                    756616888173632763.57000758177402127018.95Medical                       APPROVED  01-05-2025BR002
+1161474596Homer Streich III                       169221006137887985.61000676415064198006.18Business                      REJECTED  01-05-2025BR002
+1653806896Royce Gaylord                           479656373180580396.18000814938057113019.04Education                     REJECTED  01-05-2025BR002
+1252321496Zackary Rempel                          119805833138104253.19000841567653134014.88Business                      APPROVED  01-05-2025BR002
+1160379643Willodean Shanahan I                    983348228194913191.51000895277996294003.73Business                      REJECTED  01-05-2025BR003
+1820267567Rex Wilkinson                           269847840188058209.84000837387792056010.81Home                          APPROVED  01-05-2025BR001
+1164325468Scottie Hayes                           657060902135219530.45000752324566266017.68Education                     PENDING   01-05-2025BR001
+1124293897Gladis Greenholt                        345672450110561672.73000227207351188012.95Medical                       APPROVED  01-05-2025BR002
+1623615123Audria Jacobi                           976315716130634338.87000577336581036014.76Education                     PENDING   01-05-2025BR003
+1616413156Trey Trantow                            608320665183426486.46000604772653091013.43Business                      APPROVED  01-05-2025BR001
+1333156815Miss Tawny Bradtke                      733951301103018201.04000031495366060008.16Medical                       REJECTED  01-05-2025BR003
+1764778027Aubrey Mueller                          193824912104793914.26000670276177260006.06Medical                       REJECTED  01-05-2025BR003
+1223659571Jalisa Zieme                            849986537186742682.08000197459397255020.31Education                     REJECTED  01-05-2025BR002
+1575762442Demetrius Balistreri                    442851550128886068.03000270519471334003.81Business                      REJECTED  01-05-2025BR002
+1087892211Dr. Tabetha Rosenbaum                   736946180115952290.08000521307526199002.95Travel                        APPROVED  01-05-2025BR004
+1144060190Gretchen Jacobson MD                    321070335134055093.90000468832306361010.02Business                      REJECTED  01-05-2025BR003
+1893019249Mr. Leighann Lowe                       534595795180970311.35000774526236128007.58Education                     PENDING   01-05-2025BR001
+1295171000Jean Ernser                             175430695146937992.85000925294285355006.40Travel                        REJECTED  01-05-2025BR004
+1639324129Wade Connelly DDS                       891175275130532551.25000738806126125002.70Business                      APPROVED  01-05-2025BR001
+1641569814Vito Waters                             768710339154472661.30000987791003231001.84Travel                        PENDING   01-05-2025BR004
+1516472416Donette Okuneva                         374543488158395248.76000862145469274004.30Travel                        APPROVED  01-05-2025BR001
+1278287348Amberly Thiel IV                        151096976135691698.40000854026828015019.82Travel                        APPROVED  01-05-2025BR001
+1003416481Miss Nadene Lebsack                     994935413139578491.33000476150416162003.56Education                     REJECTED  01-05-2025BR001
+1457273598Star Brown                              822363737113360679.57000957310591162006.49Home                          PENDING   01-05-2025BR002
+1337026966Peggy Toy II                            730616583143226878.65000453544691007019.50Travel                        APPROVED  01-05-2025BR002
+1082955315Ms. Van Feest                           905520241159933857.70000392967233331012.41Travel                        REJECTED  01-05-2025BR001
+1582644131Wava Parker                             286154583199737951.94000303407491009019.17Travel                        PENDING   01-05-2025BR001
+1864762707Verda D'Amore                           621597138182619636.76000607366934193012.72Business                      PENDING   01-05-2025BR002
+1207092498Mrs. Joshua Durgan                      745396969108494453.89000713289825279009.95Medical                       PENDING   01-05-2025BR004
+1502788179Ms. Brad Ziemann                        374414600123870111.56000570216474167019.90Business                      APPROVED  01-05-2025BR002
+1027966766Catharine Emmerich                      853590663156356276.43000365098161265017.28Medical                       APPROVED  01-05-2025BR002
+1609481202Le Thompson                             766997351119557960.26000726641965052017.37Medical                       PENDING   01-05-2025BR001
+1290897856Romeo Dooley                            462611948167680374.25000234732575086004.34Travel                        APPROVED  01-05-2025BR003
+1796938443Deanna Kulas                            976274779199636505.02000347296671336020.93Home                          PENDING   01-05-2025BR001
+1788361142Ms. Tarra Cole                          188697504131756565.60000495419661235016.33Home                          APPROVED  01-05-2025BR003
+1864828588Vernetta Lueilwitz                      625678135107356336.12000404861621120016.42Home                          REJECTED  01-05-2025BR004
+1550426704Ms. Terence Funk                        702572663163661444.42000911834620363001.59Business                      APPROVED  01-05-2025BR004
+1061460386Wilton Mitchell IV                      494678108187830946.82000249465138067004.11Home                          PENDING   01-05-2025BR001
+1328519729Yee Wiza                                625262432187066679.00000418122751338013.51Business                      PENDING   01-05-2025BR004
+1121490289Dr. Titus MacGyver                      963091706113529185.59000437541105086020.51Travel                        APPROVED  01-05-2025BR002
+1666002381Kathe Sanford                           788579519110823591.55000480491916085002.22Home                          PENDING   01-05-2025BR004
+1571073763Shane Mayer                             605360761132765147.53000689135937158019.48Home                          PENDING   01-05-2025BR002
+1586042502Concha Marvin DVM                       541237311164157770.41000855468769305017.77Business                      REJECTED  01-05-2025BR001
+1371344201Teena Simonis Jr.                       743699265130252499.16000066110890040015.68Business                      REJECTED  01-05-2025BR002
+1552638959Christopher Grant                       102887358170817583.91000508830206112016.08Education                     APPROVED  01-05-2025BR002
+1593237147Chin Goyette                            312583579110149424.08000453028226195012.06Home                          APPROVED  01-05-2025BR002
+1384234631Renda O'Kon                             588177561194179406.78000104731126151013.55Business                      REJECTED  01-05-2025BR002
+1760892891Henriette Skiles                        323834330156532388.66000507615197216018.63Business                      APPROVED  01-05-2025BR001
+1754638078Ellis Boyer                             340532130179018407.90000204751256075010.96Business                      APPROVED  01-05-2025BR001
+1100875560Jin DuBuque II                          152289646194453733.89000882884986133012.77Medical                       REJECTED  01-05-2025BR004
+1028487144Reta Rempel                             336849982155641456.72000590785003159006.31Travel                        REJECTED  01-05-2025BR004
+1010593492Maple Erdman                            785009775141483954.07000030457862044016.92Business                      PENDING   01-05-2025BR004
+1898408694Mr. Rocco Krajcik                       873970168164967642.70000860911736323019.93Medical                       REJECTED  01-05-2025BR004
+1746487742Kimberley Hamill                        635493479107367077.08000853919619356008.60Education                     APPROVED  01-05-2025BR004
+1380554086Mrs. Isaiah Stokes                      675992842102325730.21000242954084354002.16Travel                        REJECTED  01-05-2025BR001
+1827295619Norman Lang DVM                         366654190189776384.58000128931050111016.49Education                     PENDING   01-05-2025BR001
+1482212946Kendall Schoen                          269125389116429281.08000933054228053012.57Education                     APPROVED  01-05-2025BR003
+1296138663Woodrow Dickinson                       998622852197181071.46000695092400232017.20Education                     PENDING   01-05-2025BR001
+1851133627Gregory Kuphal                          164097687110776550.70000506969501148011.95Travel                        PENDING   01-05-2025BR001
+1276558774Ms. Dalila Wyman                        557139378151537614.46000061757258025001.10Education                     PENDING   01-05-2025BR003
+1749103979Mrs. Dannie Koss                        284115398106472244.64000172039729164003.16Business                      REJECTED  01-05-2025BR002
+1684794629Stephenie Rath                          596010151142441471.71000452037802067015.43Home                          REJECTED  01-05-2025BR004
+1172482667Caridad Schinner                        902875350145807833.46000859798590328011.65Medical                       PENDING   01-05-2025BR001
+1885502349Janee Hirthe                            363732595196330477.98000696156560042001.03Medical                       REJECTED  01-05-2025BR003
+1110201615Chi Stanton V                           372733492147183606.03000008646858123003.88Business                      PENDING   01-05-2025BR002
+1375427914Oren Leffler                            130221064150108893.81000349491828050012.11Travel                        REJECTED  01-05-2025BR003
+1864716104Thomasena Koepp                         934799517116300225.59000959451699109012.11Medical                       APPROVED  01-05-2025BR004
+1578967099Jerrold Littel                          899370626172699007.59000068461810265012.45Travel                        PENDING   01-05-2025BR004
+1435934606Lynelle Thiel II                        678085768172145867.84000498863171157004.31Medical                       REJECTED  01-05-2025BR004
+1653494597Janet Green                             359940745155985918.56000261280875168016.69Home                          REJECTED  01-05-2025BR001
+TLR|0100                                                                                            
