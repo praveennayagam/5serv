@@ -1,0 +1,53 @@
+//Update MongoDBHandler 
+package mongoconnect;
+import com.mongodb.client.MongoClients;
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
+import org.bson.Document;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.stream.Collectors;
+public class MongoDBHandler {
+    public static HashMap<String,Integer> recordsCount =new HashMap<>();
+    private static final String DB_NAME = "FiservDB2";
+    public static MongoDatabase connect() {
+        return MongoClients.create("mongodb://localhost:27017").getDatabase(DB_NAME);
+    }
+    private static <T> Document convertRecordToDocument(T record) {
+        return Arrays.stream(record.getClass().getRecordComponents())
+                .collect(Document::new,
+                        (doc, component) -> {
+                            try {
+                                Object value = component.getAccessor().invoke(record);
+                                if (value != null && value.getClass().isRecord()) {
+                                    value = convertRecordToDocument(value);
+                                }
+                                doc.append(component.getName(), value);
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                            }
+                        },
+                        Document::putAll);
+    }
+    public static <T> void insertRecords(String collectionName, List<T> records) {
+        recordsCount.put(collectionName, recordsCount.getOrDefault(collectionName,0)+ records.size());
+        MongoDatabase database = connect();
+        MongoCollection<Document> collection = database.getCollection(collectionName);
+        List<Document> documents = records.stream()
+                .map(MongoDBHandler::convertRecordToDocument)
+                .collect(Collectors.toList());
+        collection.insertMany(documents);
+        System.out.println("Inserted " + documents.size() + " records into " + collectionName);
+    }
+    private static MongoDatabase database;
+    public static MongoDatabase getDatabase() {
+        if (database == null) {
+            database = connect();
+        }
+        return database;
+    }
+    public static  HashMap<String,Integer> methodcall(){
+        return recordsCount;
+    }
+}
